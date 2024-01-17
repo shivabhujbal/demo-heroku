@@ -15,7 +15,7 @@
 	<name>heroku-demo</name>
 	<description>Personel Project</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>20</java.version>
 		<testcontainers.version>1.17.4</testcontainers.version>
 	</properties>
 	<dependencies>
